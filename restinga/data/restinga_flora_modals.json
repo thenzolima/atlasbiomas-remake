@@ -1,0 +1,178 @@
+[
+  {
+    "id": "portfolioModal1",
+    "titulo": "Caraíva, Porto Seguro",
+    "imagens": [
+      "../imagens/Restinga/Caraíva, Porto Seguro4.jpg",
+      "../imagens/Restinga/Caraíva, Porto Seguro3.jpg",
+      "../imagens/Restinga/Caraíva, Porto Seguro2.jpg"
+    ],
+    "descricoes": [
+      "Imagem 1: Imagem de um ambiente de restinga da Vila de Caraíva, destaque para o Rio Caraíva. Localização: Porto Seguro, Bahia.",
+      "Imagem 2: Imagem de um ambiente de restinga da Vila de Caraíva, a praia da Barra. Com a maré baixa, a água escura do mangue toma conta da barra e invade o mar. Quando a maré sobe, é a água do mar que adentra o rio e muda totalmente a coloração. Localização: Porto Seguro, Bahia.",
+      "Imagem 3: Imagem de um ambiente de restinga da Vila de Caraíva. Região ecologicamente preservada, beneficia-se de diversas proteções ambientais: Área de Proteção Ambiental – APA Caraíva/Trancoso; Zona de Reserva Extrativista Marinha – Resex; e zona de entorno do Parque Nacional e Histórico de Monte Pascoal. Localização: Porto Seguro, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal2",
+    "titulo": "Comandatuba, Una",
+    "imagens": ["../imagens/Restinga/Comandatuba, Una.jpg"],
+    "descricoes": [
+      "Imagem de um ambiente de restinga da Vila de Comandatuba, evidenciando o ambiente de manguezal. Localização: Una, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal3",
+    "titulo": "Engenhoca, Itacaré",
+    "imagens": [
+      "../imagens/Restinga/Engenhoca, Itacaré.jpg",
+      "../imagens/Restinga/Engenhoca, Itacaré2.jpg",
+      "../imagens/Restinga/Engenhoca, Itacaré3.jpg"
+    ],
+    "descricoes": [
+      "Imagem 1: Imagem de um ambiente de restinga da praia da Engenhoca, cercada por coqueiros e Mata Atlântica. Localização: Itacaré, Bahia.",
+      "Imagem 2: Imagem de um ambiente de restinga da praia da Engenhoca, relativamente grande, cercada por coqueiros e areia firme. Localização: Itacaré, Bahia.",
+      "Imagem 3: Imagem de um ambiente de restinga da praia da Engenhoca. A praia é marcada pelo fato do Rio Burundanga desembocar no mar. Localização: Itacaré, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal4",
+    "titulo": "Havaizinho, Itacaré",
+    "imagens": [
+      "../imagens/Restinga/Havaizinho, Itacaré.jpg",
+      "../imagens/Restinga/Havaizinho, Itacaré2.jpg"
+    ],
+    "descricoes": [
+      "Imagem 1: Imagem de um ambiente de restinga da praia do Havaizinho, que fica localizada entre duas pontas de arrecifes, sendo cercada por altas árvores. Localização: Itacaré, Bahia.",
+      "Imagem 2: Imagem de um ambiente de restinga da praia do Havaizinho constituída por pequenas enseadas separadas por recifes, com muitos coqueiros, ondas fortes e curta faixa de areia na cheia e durante a maré baixa fica extensa. Localização: Itacaré, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal5",
+    "titulo": "Ilha do Desejo, Ilhéus",
+    "imagens": [
+      "../imagens/Restinga/Ilha da fantasia estrada Ilhéus-Olivença.jpg"
+    ],
+    "descricoes": [
+      "Imagem de um ambiente de restinga da Ilha do Desejo na estrada de Ilhéus para Olivença, região onde o mar e o Rio Acuípe se encontram. Área formada por mangues, com água um pouco escura, porém mornas e calmas. Localização: Acuípe, Ilhéus, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal6",
+    "titulo": "Ilha Pedra Furada, Barra Grande",
+    "imagens": [
+      "../imagens/Restinga/Ilha pedra furada barra grande.jpg",
+      "../imagens/Restinga/Ilha pedra furada barra grande2.jpg",
+      "../imagens/Restinga/Ilha pedra furada barra grande3.jpg",
+      "../imagens/Restinga/Pedra Furada barra grande.jpg"
+    ],
+    "descricoes": [
+      "Imagem 1: Imagem de um ambiente de restinga da Ilha Pedra Furada, evidenciando a ampla formação rochosa do ambiente. Localização: Vila de Barra Grande, Camamu, Bahia.",
+      "Imagem 2: Imagem de um ambiente de restinga da Ilha Pedra Furada. A praia possui águas calmas e ondas fraquíssimas. A areia é bem fofa e de cor creme. Localização: Vila de Barra Grande, Camamu, Bahia.",
+      "Imagem 3: Imagem de um ambiente de restinga da Ilha Pedra Furada. O local possui este nome devido a uma pedra furada por uma erosão. Localização: Vila de Barra Grande, Camamu, Bahia.",
+      "Imagem 4: Imagem de um ambiente de restinga da Ilha Pedra Furada. Localização: Vila de Barra Grande, Camamu, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal7",
+    "titulo": "Mirantes, Serra Grande",
+    "imagens": [
+      "../imagens/Restinga/Mirante Serra Grande 2.jpg",
+      "../imagens/Restinga/Mirante Serra Grande4.jpg",
+      "../imagens/Restinga/Mirante Serra Grande.jpg",
+      "../imagens/Restinga/Mirante Serra Grande3.jpg"
+    ],
+    "descricoes": [
+      "Imagem 1: Imagem de um ambiente de restinga, vista do Mirante II de Serra Grande. Evidenciando o mar cercado pela vegetação verde. Localização: Vila de Serra Grande, Uruçuca, Bahia.",
+      "Imagem 2: Imagem de um ambiente de restinga, vista do Mirante I de Serra Grande, classificada como Área de Proteção Ambiental. A vista fica a 80 m acima do nível do mar. Localização: Vila de Serra Grande, Uruçuca, Bahia.",
+      "Imagem 3: Imagem de um ambiente de restinga, vista da BA-001. Localização: Vila de Serra Grande, Uruçuca, Bahia.",
+      "Imagem 4: Imagem de um ambiente de restinga, destacando a Praia do Pé de Serra. Localização: Vila de Serra Grande, Uruçuca, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal8",
+    "titulo": "Mirante Ponta do Xareu, Itacaré",
+    "imagens": ["../imagens/Restinga/Mirante ponta do Xareu, Itacaré.jpg"],
+    "descricoes": [
+      "Imagem de um ambiente de restinga no mirante da Ponta do Xareu. Evidenciando as praias da Coroinha e do Pontal, essa última do outro lado do estuário do Rio de Contas. Localização: Itacaré, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal9",
+    "titulo": "Praia da Concha, Itacaré",
+    "imagens": ["../imagens/Restinga/Praia da concha, Itacaré.jpg"],
+    "descricoes": [
+      "Imagem de um ambiente de restinga da Praia da Concha. É uma praia urbana com ondas muito pequenas, nela ocorre o encontro do Rio de Contas com o mar. Localização: Itacaré, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal10",
+    "titulo": "Praia do Espelho, Porto Seguro",
+    "imagens": [
+      "../imagens/Restinga/Praia do Espelho Porto Seguro10.jpg",
+      "../imagens/Restinga/Praia do Espelho Porto Seguro3.jpg",
+      "../imagens/Restinga/Praia do Espelho Porto Seguro14.jpg",
+      "../imagens/Restinga/Praia do Espelho Porto Seguro16.jpg",
+      "../imagens/Restinga/Praia do Espelho Porto Seguro18.jpg",
+      "../imagens/Restinga/Praia do Espelho Porto Seguro19.jpg"
+    ],
+    "descricoes": [
+      "Imagem 1: Imagem de um ambiente de restinga da Praia do Espelho. Essa praia caracteriza-se por reunir piscinas naturais de água cristalina e morna entre recifes, areias claras, falésias avermelhadas e vegetação nativa com coqueirais. Localização: Porto Seguro, Bahia.",
+      "Imagem 2: Imagem de um ambiente de restinga da Praia do Espelho. Evidenciando coqueirais que beiram a faixa de areia. Localização: Porto Seguro, Bahia.",
+      "Imagem 3: Imagem de um ambiente de restinga da Praia do Espelho. Evidenciando as falésias em tons de ocre. Localização: Porto Seguro, Bahia.",
+      "Imagem 4: Imagem de um ambiente de restinga da Praia do Espelho, que recebe esse nome devido ao efeito que o Sol promove, refletindo nas piscinas naturais que se formam na maré baixa nesta praia. Localização: Porto Seguro, Bahia.",
+      "Imagem 5: Imagem de um ambiente de restinga da Praia do Espelho. Essa praia caracteriza-se por reunir piscinas naturais de água cristalina e morna entre recifes, areias claras, falésias avermelhadas e vegetação nativa com coqueirais. Localização: Porto Seguro, Bahia.",
+      "Imagem 6: Imagem de um ambiente de restinga da Praia do Espelho, pertencente ao distrito de Caraíva. Localização: Porto Seguro, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal11",
+    "titulo": "Praia do Backdoor, Ilhéus",
+    "imagens": ["../imagens/Restinga/Praia do backdoor Ilhéus.jpg"],
+    "descricoes": [
+      "Imagem de um ambiente de restinga da Praia do Backdoor, que possui um vasto coqueiral e areia um pouco escura. Localização: Ilhéus, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal12",
+    "titulo": "Praia Ponta de Mutá, Barra Grande",
+    "imagens": ["../imagens/Restinga/Praia ponta de mutá Barra Grande.jpg"],
+    "descricoes": [
+      "Imagem de um ambiente de restinga, praia Ponta de Mutá, com areias lisas e de cor creme. Localização: Vila de Barra Grande, Península de Maraú, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal13",
+    "titulo": "Sapetinga, Ilhéus",
+    "imagens": ["../imagens/Restinga/Sapetinga, Ilhéus.jpg"],
+    "descricoes": [
+      "Imagem de um ambiente de restinga. Onde se avista também o bioma manguezal. Localização: Baía da Sapetinga, Ilhéus, Bahia. A Baía caracteriza-se por ser uma forma litorânea que apresenta uma forma arredondada quase fechada, lembrando a forma da letra “u” ou de uma ferradura."
+    ]
+  },
+  {
+    "id": "portfolioModal14",
+    "titulo": "Praia do Sargi, Serra Grande",
+    "imagens": ["../imagens/Restinga/Serra Grande.jpg"],
+    "descricoes": [
+      "Imagem de um ambiente de restinga. Praia do Sargi. Localização: Serra Grande, Uruçuca, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal15",
+    "titulo": "Praia da Costa, Itacaré",
+    "imagens": ["../imagens/Restinga/praia da costa, Itacaré.jpg"],
+    "descricoes": [
+      "Imagem de um ambiente de restinga da Praia da Costa. Caracteriza-se por ser uma pequena praia com muitos coqueiros e cercada de pedras. Localização: Itacaré, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal16",
+    "titulo": "Trilha do Havaizinho, Itacaré",
+    "imagens": [
+      "../imagens/Restinga/Trilha do Havaizinho para Engenhoca, Itacaré.jpg"
+    ],
+    "descricoes": [
+      "Imagem de um ambiente de restinga. Trilha do Havaizinho para Engenhoca. A restinga é originada pelo recuo do mar através do tempo, sendo composta por solos arenosos, onde se desenvolve uma variada vegetação. Trata-se de um tipo de relevo litorâneo presente ao longo da costa brasileira. Vista da praia do Havaizinho. Localização: Itacaré, Bahia."
+    ]
+  }
+]

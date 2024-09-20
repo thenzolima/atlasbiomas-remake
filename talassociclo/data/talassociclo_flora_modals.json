@@ -1,0 +1,90 @@
+[
+  {
+    "id": "portfolioModal1",
+    "titulo": "Rhodophyta",
+    "images": [
+      "../imagens/Talassociclo/Algas vermelhas praia da Concha Ilhéus.jpg"
+    ],
+    "description": "Nome científico: <i>Rhodophyta</i>: popularmente conhecida como “alga vermelha”, por apresentar coloração característica. Região: Praia da Concha em Ilhéus, Bahia. Classificação superior: <i>Archaeplastida</i>. Filo: <i>Rhodophyta</i>; Wettstein, 1922. Domínio: <i>Eukaryota</i>. Região de coleta: Praia da Concha em Ilhéus, Bahia."
+  },
+  {
+    "id": "portfolioModal2",
+    "titulo": "Ulva",
+    "images": [
+      "../imagens/Talassociclo/Algas verdes praia da Concha Ilhéus2.jpg"
+    ],
+    "description": "Nome científico: <i>Ulva</i>. Conhecida como algas verdes ou alface do mar. Possui ampla distribuição natural ao longo das costas de todos os oceanos. Pertencente ao gênero <i>Ulva</i>. Família: <i>Ulvaceae</i>. Filo: <i>Chlorophyta</i>, Clado: <i>Viridiplantae</i>. Classe: <i>Ulvophyceae</i>. Região de coleta: Praia da Concha em Ilhéus, Bahia."
+  },
+  {
+    "id": "portfolioModal3",
+    "titulo": "Ulva intestinalis L. e Ulva",
+    "images": [
+      "../imagens/Talassociclo/Algas verdes praia da Concha Ilhéus.jpg"
+    ],
+    "description": "Algas pertencentes ao Filo <i>Chlorophyta</i>, a da esquerda conhecida como “alga verde” ou erva-patinha. Nome científico: <i>Ulva intestinalis L.</i>. A da direita é conhecida como alface do mar (<i>Ulva</i>). Região de coleta: Praia da Concha em Ilhéus, Bahia."
+  },
+  {
+    "id": "portfolioModal4",
+    "titulo": "Chlorophyta e Phaeophyceae",
+    "images": [
+      "../imagens/Talassociclo/Algas verdes e pardas praia da Concha Ilhéus.jpg"
+    ],
+    "description": "Comparação entre <i>Chlorophyta</i> (alga verde) e <i>Phaeophyceae</i> (alga parda). A alga parda pertence ao gênero <i>Sargassum sp.</i>. Região de coleta: Praia da Concha em Ilhéus, Bahia."
+  },
+  {
+    "id": "portfolioModal5",
+    "titulo": "Praia da Engenhoca, Itacaré",
+    "images": [
+      "../imagens/Talassociclo/Praia da Engenhoca.jpg"
+    ],
+    "description": "Imagem do ambiente marinho da Praia da Engenhoca, com areia lisa e escura, formação rochosa e água azul. Localização: Itacaré, Bahia."
+  },
+  {
+    "id": "portfolioModal6",
+    "titulo": "Praia do Espelho",
+    "images": [
+      "../imagens/Talassociclo/Praia do Espelho Porto Seguro.jpg",
+      "../imagens/Talassociclo/Praia do Espelho Porto Seguro2.jpg",
+      "../imagens/Talassociclo/Praia do Espelho Porto Seguro5.jpg",
+      "../imagens/Talassociclo/Praia do Espelho Porto Seguro7.jpg"
+    ],
+    "description": [
+      "Imagem do ambiente marinho da Praia do Espelho. Evidência das piscinas naturais de água cristalina e um vasto coqueiral que beira a faixa de areia. Localização: Porto Seguro, Bahia.",
+      "Imagem do ambiente marinho da Praia do Espelho, com mar de águas claras que variam entre o azul e o verde e a areia de cor creme. Localização: Porto Seguro, Bahia.",
+      "Imagem do ambiente marinho da Praia da Praia do Espelho. A praia é marcada pela presença de areia clara, água azul e formações rochosas. Localização: Porto Seguro, Bahia.",
+      "Imagem do ambiente marinho da Praia do Espelho. Essa praia caracteriza-se por reunir piscinas naturais de água cristalina e morna entre recifes, areias claras, falésias avermelhadas, e vegetação nativa com coqueirais. Localização: Porto Seguro, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal7",
+    "titulo": "Praia Ponta de Mutá, Barra Grande",
+    "images": [
+      "../imagens/Talassociclo/Praia ponta de mutá.jpg",
+      "../imagens/Talassociclo/Praia ponta de mutá2.jpg"
+    ],
+    "description": [
+      "Imagem do ambiente marinho da Praia Ponta de Mutá, com mar calmo, areia lisa e de cor creme. É famosa por um espetáculo da natureza: um pôr do sol incrível, sendo o mais famoso da região. Localização: Vila de Barra Grande, Península de Maraú, Bahia.",
+      "Imagem do ambiente marinho da Praia Ponta de Mutá. Evidenciando piscinas naturais que se formam na maré baixa entre os recifes de corais. Localização: Vila de Barra Grande, Península de Maraú, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal8",
+    "titulo": "Praia de Serra Grande, Serra Grande",
+    "images": [
+      "../imagens/Talassociclo/Praia serra Grande.jpg"
+    ],
+    "description": [
+      "Imagem do ambiente marinho da Praia de Serra Grande. Evidenciando o mar azul claro. Localização: Serra Grande, Uruçuca, Bahia."
+    ]
+  },
+  {
+    "id": "portfolioModal9",
+    "titulo": "Praia Três Coqueiros, Barra Grande",
+    "images": [
+      "../imagens/Talassociclo/Praia três coqueiros barra grande.jpg"
+    ],
+    "description": [
+      "Imagem do ambiente marinho da Praia Três Coqueiros. Ao contrário do que o nome diz, possui um vasto coqueiral. Muito extensa, a praia é marcada pela presença de areia clara e recifes que surgem na maré baixa, formando piscinas naturais. Localização: Vila de Barra Grande, Península de Maraú, Bahia."
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+    {
+      "titulo": "<i>Psathyrella spp.</i>",
+      "imagem": "../imagens/Mata Atlântica/IMG_3795.jpg",
+      "modal": "#portfolioModal1"
+    },
+    {
+      "titulo": "<i>Psathyrellaceae</i>",
+      "imagem": "../imagens/Mata Atlântica/IMG_3793.jpg",
+      "modal": "#portfolioModal2"
+    },
+    {
+      "titulo": "<i>Polyporus arcularius</i>",
+      "imagem": "../imagens/Mata Atlântica/IMG_3715.jpg",
+      "modal": "#portfolioModal3"
+    },
+    {
+      "titulo": "<i>Lentinus crinitus</i>",
+      "imagem": "../imagens/Mata Atlântica/IMG_3714.jpg",
+      "modal": "#portfolioModal4"
+    },
+    {
+      "titulo": "<i>Pycnoporus sanguineus</i>",
+      "imagem": "../imagens/Mata Atlântica/IMG_3682.jpg",
+      "modal": "#portfolioModal5"
+    },
+    {
+      "titulo": "<i>Fomitopsis sp.</i>",
+      "imagem": "../imagens/Mata Atlântica/IMG_3680.jpg",
+      "modal": "#portfolioModal6"
+    }
+  ]
+  

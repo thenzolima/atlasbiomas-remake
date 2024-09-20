@@ -1,0 +1,47 @@
+[
+  {
+    "id": "portfolioModal1",
+    "titulo": "Rhodophyta",
+    "imagem": "../imagens/Talassociclo/Algas vermelhas praia da Concha Ilhéus.jpg"
+  },
+  {
+    "id": "portfolioModal2",
+    "titulo": "Ulva",
+    "imagem": "../imagens/Talassociclo/Algas verdes praia da Concha Ilhéus2.jpg"
+  },
+  {
+    "id": "portfolioModal3",
+    "titulo": "Ulva intestinalis L. e Ulva",
+    "imagem": "../imagens/Talassociclo/Algas verdes praia da Concha Ilhéus.jpg"
+  },
+  {
+    "id": "portfolioModal4",
+    "titulo": "Chlorophyta e Phaeophyceae",
+    "imagem": "../imagens/Talassociclo/Algas verdes e pardas praia da Concha Ilhéus.jpg"
+  },
+  {
+    "id": "portfolioModal5",
+    "titulo": "Praia da Engenhoca",
+    "imagem": "../imagens/Talassociclo/Praia da Engenhoca.jpg"
+  },
+  {
+    "id": "portfolioModal6",
+    "titulo": "Praia do Espelho",
+    "imagem": "../imagens/Talassociclo/Praia do Espelho Porto Seguro.jpg"
+  },
+  {
+    "id": "portfolioModal7",
+    "titulo": "Praia Ponta de Mutá",
+    "imagem": "../imagens/Talassociclo/Praia ponta de mutá.jpg"
+  },
+  {
+    "id": "portfolioModal8",
+    "titulo": "Praia de Serra Grande",
+    "imagem": "../imagens/Talassociclo/Praia serra Grande.jpg"
+  },
+  {
+    "id": "portfolioModal9",
+    "titulo": "Praia Três Coqueiros",
+    "imagem": "../imagens/Talassociclo/Praia três coqueiros barra grande.jpg"
+  }
+]
