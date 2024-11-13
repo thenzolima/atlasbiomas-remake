@@ -5,6 +5,9 @@ $conteudo = json_decode($json_data, true);
 ?>
 
 <?php include '../template_galeria.php'; ?>
+<script>
+    alterarTitulo("Fauna")
+</script>
 <?php include './talassociclo_fauna_modal.php'; ?>
 
 <!-- Bootstrap core JS-->

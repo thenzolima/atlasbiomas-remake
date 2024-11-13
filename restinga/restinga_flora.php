@@ -3,7 +3,8 @@
 $json_data = file_get_contents('./data/restinga_flora.json');
 $conteudo = json_decode($json_data, true);
 ?>
-<?php include '../template_galeria.php' ?>
+<?php include '../template_galeria.php';
+?>
 <?php include './restinga_flora_modal.php' ?>
 
 <!-- Bootstrap core JS-->
@@ -12,6 +13,10 @@ $conteudo = json_decode($json_data, true);
 <script src="js/scripts.js"></script>
 <!-- SB Forms JS-->
 <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+
+<script>
+    alterarTitulo("Flora")
+</script>
 </body>
 
 </html>

@@ -3,7 +3,9 @@
 $json_data = file_get_contents('./data/manguezal_fauna.json');
 $conteudo = json_decode($json_data, true);
 ?>
-<?php include '../template_galeria.php' ?>
+<?php
+include '../template_galeria.php';
+?>
 
 <?php include './manguezal_fauna_modal.php' ?>
 
@@ -12,6 +14,10 @@ $conteudo = json_decode($json_data, true);
 <!-- Core theme JS-->
 <script src="js/scripts.js"></script>
 <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+
+<script>
+    alterarTitulo("Fauna")
+</script>
 </body>
 
 </html>

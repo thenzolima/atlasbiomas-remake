@@ -15,62 +15,17 @@
         cursor: pointer;
         display: inline-block;
     }
-
-    .btn-contrast {
-        color: #fff;
-        background-color: #E74C3C;
-        border: none;
-        padding: 10px 20px;
-        border-radius: 10px;
-        cursor: pointer;
-    }
-
-    /* Estilo de alto contraste */
-    .high-contrast {
-        background-color: #000;
-        color: #fff;
-    }
-
-    .high-contrast .btn-translate {
-        background-color: #fff;
-        color: #000;
-    }
-
-    .high-contrast .modal-content {
-        background-color: #000;
-        color: #fff;
-    }
-
-    .high-contrast img {
-        border: 2px solid #fff;
-    }
-
-    .high-contrast h2 i {
-        color: white;
-    }
-
-    .high-contrast .btn-close {
-        filter: invert(1);
-    }
-
-    .high-contrast #galeria-title {
-        color: white;
-    }
-
-    .high-contrast .curiosity.contrast {
-        background-color: #000;
-        color: #fff;
-        border: 1px solid #fff;
-    }
 </style>
 
 <?php
 // Função genérica para carregar JSON e gerar modais
 function gerarModais($arquivoJson)
 {
+    // Carregar o arquivo JSON
     $jsonData = file_get_contents($arquivoJson);
     $dados = json_decode($jsonData, true);
 
+    // Gerar modais dinamicamente
     foreach ($dados as $item) {
         ?>
         <!-- Portfolio Modal <?php echo $item['id']; ?> -->
@@ -87,7 +42,13 @@ function gerarModais($arquivoJson)
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
                                     <h2 class="portfolio-modal-title text-secondary mb-0"><i><?php echo $item['titulo']; ?></i>
-                                    </h2><br>
+                                    </h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
 
                                     <!-- Slideshow para múltiplas imagens -->
                                     <?php if (isset($item['imagens']) && count($item['imagens']) > 1): ?>
@@ -130,15 +91,14 @@ function gerarModais($arquivoJson)
                                     <button class="btn-translate" data-lang="pt">Português</button>
                                     <button class="btn-translate" data-lang="en">English</button>
 
-
-                                    <p class="mb-4 description"
-                                        data-description-pt="<?php echo implode('<br /><br />', $item['descricoes']['pt']); ?>"
-                                        data-description-en="<?php echo implode('<br /><br />', $item['descricoes']['en']); ?>">
+                                    <p class="mb-4 description" 
+                                       data-description-pt="<?php echo implode('<br /><br />', $item['descricoes']['pt']); ?>" 
+                                       data-description-en="<?php echo implode('<br /><br />', $item['descricoes']['en']); ?>">
                                         <?php echo implode('<br /><br />', $item['descricoes']['pt']); ?>
                                     </p>
-                                    <div class="alert alert-dark curiosity" role="alert"
-                                        data-curiosity-pt="<?php echo $item['curiosidade']['pt']; ?>"
-                                        data-curiosity-en="<?php echo $item['curiosidade']['en']; ?>">
+                                    <div class="alert alert-dark curiosity" role="alert" 
+                                         data-curiosity-pt="<?php echo $item['curiosidade']['pt']; ?>" 
+                                         data-curiosity-en="<?php echo $item['curiosidade']['en']; ?>">
                                         <?php echo $item['curiosidade']['pt']; ?>
                                     </div>
                                 </div>
@@ -155,23 +115,18 @@ function gerarModais($arquivoJson)
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-    function toggleContrast() {
-        var alerts = document.querySelectorAll('div.curiosity');
-        alerts.forEach(function (alert) {
-            alert.classList.toggle('contrast');
-        });
-        document.body.classList.toggle('high-contrast');
-    }
-
     $(document).ready(function () {
         $('.btn-translate').click(function () {
+            // Pega o modal que está atualmente visível
             var modal = $(this).closest('.modal');
             var lang = $(this).data('lang');
 
             if (lang === 'pt') {
+                // Altera os textos para português
                 modal.find('.description').html(modal.find('.description').data('description-pt'));
                 modal.find('.curiosity').html(modal.find('.curiosity').data('curiosity-pt'));
             } else if (lang === 'en') {
+                // Altera os textos para inglês
                 modal.find('.description').html(modal.find('.description').data('description-en'));
                 modal.find('.curiosity').html(modal.find('.curiosity').data('curiosity-en'));
             }

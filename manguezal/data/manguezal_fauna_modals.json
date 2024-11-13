@@ -2,11 +2,14 @@
   {
     "id": "portfolioModal1",
     "titulo": "Ucides cordatus",
-    "imagens": [
-      "../imagens/Manguezal/Caranguejo.jpg"
-    ],
-    "descricoes": [
-      "Espécie Ucides cordatus conhecida como Caranguejo-uçá, pertencente à ordem: Decápodes, classe: Malacostraca, Família: Ocypodidae e Filo: Arthropoda. Região: Vila de Caraíva, município de Porto Seguro, Bahia."
-    ]
+    "imagens": ["../imagens/Manguezal/Caranguejo.jpg"],
+    "descricoes": {
+      "pt": ["Espécie Ucides cordatus conhecida como Caranguejo-uçá, pertencente à ordem: Decápodes, classe: Malacostraca, Família: Ocypodidae e Filo: Arthropoda. Região: Vila de Caraíva, município de Porto Seguro, Bahia."],
+      "en": ["Species Ucides chordatus known as Caranguejo-uçá, belonging to the order: Decapods, class: Malacostraca, Family: Ocypodidae and Phylum: Arthropoda. Region: Vila de Caraíva, city of Porto Seguro, Bahia."]
+    },
+    "curiosidade": {
+      "pt": "Ele desempenha um papel ecológico importante nos manguezais, ajudando a manter a saúde do ecossistema. Esses caranguejos escavam tocas e remexem o solo, o que facilita a aeração do sedimento e contribui para a ciclagem de nutrientes no ambiente.",
+      "en": "It plays an important ecological role in mangroves, helping to maintain the health of the ecosystem. These crabs dig holes and disturb the soil, which facilitates the aeration of the sediment and contributes to the cycling of nutrients in the environment."
+    }
   }
 ]

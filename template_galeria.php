@@ -9,6 +9,11 @@
         }
     </style>
     <?php include '../cabecalho.php'; ?>
+    <script>
+        function alterarTitulo(novoTitulo) {
+            document.getElementById('galeria-title').textContent = novoTitulo;
+        }
+    </script>
 </head>
 
 <body>
@@ -18,15 +23,17 @@
     <section class="page-section portfolio" id="portfolio">
         <div class="container">
             <!-- Portfolio Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-secondary" id="galeria-title">Fauna</h2>
+             <div id="teste" class="d-flex flex-column justify-content-center">
+             <br><h2 class="page-section-heading text-center text-uppercase" id="galeria-title"></h2>
+             <button class="btn-contrast" onclick="toggleContrast()">Ativar/Desativar Alto Contraste</button><br><br>
+             </div>
             <!-- Icon Divider-->
             <!-- Portfolio Grid Items-->
             <div class="row justify-content-center">
                 <?php foreach ($conteudo as $item): ?>
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#<?= $item['id'] ?>">
-                            <div
-                                class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white">
                                     <i class="fas fa-plus fa-3x"></i>
                                 </div>
@@ -41,3 +48,6 @@
     </section>
 
     <?php include '../rodape.php'; ?>
+</body>
+
+</html>

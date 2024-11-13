@@ -3,8 +3,17 @@
     "id": "portfolioModal1",
     "titulo": "Caraíva, Porto Seguro",
     "imagens": ["../imagens/Manguezal/Caraíva.jpg"],
-    "descricoes": [
-      "Caraíva é a vila mais encantadora de Porto Seguro, no Sul da Bahia, onde o tempo parece que parou, com ruas de areia e construções rústicas, onde não entram veículos motorizados. Situada entre o rio e o mar, a vila da Caraíva é um lugar onde quem chega se encanta. Um destino rústico e ao mesmo tempo charmoso, lugar para se desconectar da cidade grande."
-    ]
+    "descricoes": {
+      "pt": [
+        "Caraíva é a vila mais encantadora de Porto Seguro, no Sul da Bahia, onde o tempo parece que parou, com ruas de areia e construções rústicas, onde não entram veículos motorizados. Situada entre o rio e o mar, a vila da Caraíva é um lugar onde quem chega se encanta. Um destino rústico e ao mesmo tempo charmoso, lugar para se desconectar da cidade grande."
+      ],
+      "en": [
+        "Caraíva is the most charming village in Porto Seguro, in the south of Bahia, where time seems to have stopped, with sandy streets and rustic buildings where motor vehicles do not enter. Located between the river and the sea, the village of Caraíva is a place that captivates those who arrive. A rustic yet charming destination, a place to disconnect from the big city."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A vila é famosa por suas festas de São João e suas belezas naturais, atraindo visitantes em busca de tranquilidade e beleza.",
+      "en": "The village is famous for its São João festivals and natural beauty, attracting visitors seeking tranquility and beauty."
+    }
   }
 ]

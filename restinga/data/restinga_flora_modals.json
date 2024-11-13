@@ -1,25 +1,46 @@
 [
   {
-    "id": "portfolioModal1",
+    "id": "caraiva",
     "titulo": "Caraíva, Porto Seguro",
     "imagens": [
       "../imagens/Restinga/Caraíva, Porto Seguro4.jpg",
       "../imagens/Restinga/Caraíva, Porto Seguro3.jpg",
       "../imagens/Restinga/Caraíva, Porto Seguro2.jpg"
     ],
-    "descricoes": [
-      "Imagem 1: Imagem de um ambiente de restinga da Vila de Caraíva, destaque para o Rio Caraíva. Localização: Porto Seguro, Bahia.",
-      "Imagem 2: Imagem de um ambiente de restinga da Vila de Caraíva, a praia da Barra. Com a maré baixa, a água escura do mangue toma conta da barra e invade o mar. Quando a maré sobe, é a água do mar que adentra o rio e muda totalmente a coloração. Localização: Porto Seguro, Bahia.",
-      "Imagem 3: Imagem de um ambiente de restinga da Vila de Caraíva. Região ecologicamente preservada, beneficia-se de diversas proteções ambientais: Área de Proteção Ambiental – APA Caraíva/Trancoso; Zona de Reserva Extrativista Marinha – Resex; e zona de entorno do Parque Nacional e Histórico de Monte Pascoal. Localização: Porto Seguro, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Imagem de um ambiente de restinga da Vila de Caraíva, destaque para o Rio Caraíva. Localização: Porto Seguro, Bahia.",
+        "Imagem 2: Imagem de um ambiente de restinga da Vila de Caraíva, a praia da Barra. Com a maré baixa, a água escura do mangue toma conta da barra e invade o mar. Quando a maré sobe, é a água do mar que adentra o rio e muda totalmente a coloração. Localização: Porto Seguro, Bahia.",
+        "Imagem 3: Imagem de um ambiente de restinga da Vila de Caraíva. Região ecologicamente preservada, beneficia-se de diversas proteções ambientais: Área de Proteção Ambiental – APA Caraíva/Trancoso; Zona de Reserva Extrativista Marinha – Resex; e zona de entorno do Parque Nacional e Histórico de Monte Pascoal. Localização: Porto Seguro, Bahia."
+      ],
+      "en": [
+        "Image 1: Image of a restinga environment in the village of Caraíva, highlighting the Caraíva River. Location: Porto Seguro, Bahia.",
+        "Image 2: Image of a restinga environment in the village of Caraíva, Barra beach. At low tide, the dark water of the mangrove takes over the bar and invades the sea. When the tide rises, it is the sea water that flows into the river, completely changing the color. Location: Porto Seguro, Bahia.",
+        "Image 3: Image of a restinga environment in the village of Caraíva. An ecologically preserved area, benefiting from various environmental protections: Environmental Protection Area – APA Caraíva/Trancoso; Extractive Marine Reserve – Resex; and the surrounding zone of the Monte Pascoal National and Historic Park. Location: Porto Seguro, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Caraíva é um dos destinos mais preservados do Brasil, conhecido por suas belezas naturais e tranquilidade, atraindo turistas que buscam contato com a natureza.",
+      "en": "Caraíva is one of the most preserved destinations in Brazil, known for its natural beauty and tranquility, attracting tourists seeking contact with nature."
+    },
+    "local":"Porto Seguro"
   },
   {
     "id": "portfolioModal2",
     "titulo": "Comandatuba, Una",
     "imagens": ["../imagens/Restinga/Comandatuba, Una.jpg"],
-    "descricoes": [
-      "Imagem de um ambiente de restinga da Vila de Comandatuba, evidenciando o ambiente de manguezal. Localização: Una, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga da Vila de Comandatuba, evidenciando o ambiente de manguezal. Localização: Una, Bahia."
+      ],
+      "en": [
+        "Image of a restinga environment in the village of Comandatuba, highlighting the mangrove environment. Location: Una, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Comandatuba é famosa por suas praias tranquilas e pela rica biodiversidade, sendo um excelente local para a prática de esportes aquáticos.",
+      "en": "Comandatuba is famous for its calm beaches and rich biodiversity, making it an excellent place for water sports."
+    }
   },
   {
     "id": "portfolioModal3",
@@ -29,11 +50,22 @@
       "../imagens/Restinga/Engenhoca, Itacaré2.jpg",
       "../imagens/Restinga/Engenhoca, Itacaré3.jpg"
     ],
-    "descricoes": [
-      "Imagem 1: Imagem de um ambiente de restinga da praia da Engenhoca, cercada por coqueiros e Mata Atlântica. Localização: Itacaré, Bahia.",
-      "Imagem 2: Imagem de um ambiente de restinga da praia da Engenhoca, relativamente grande, cercada por coqueiros e areia firme. Localização: Itacaré, Bahia.",
-      "Imagem 3: Imagem de um ambiente de restinga da praia da Engenhoca. A praia é marcada pelo fato do Rio Burundanga desembocar no mar. Localização: Itacaré, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Imagem de um ambiente de restinga da praia da Engenhoca, cercada por coqueiros e Mata Atlântica. Localização: Itacaré, Bahia.",
+        "Imagem 2: Imagem de um ambiente de restinga da praia da Engenhoca, relativamente grande, cercada por coqueiros e areia firme. Localização: Itacaré, Bahia.",
+        "Imagem 3: Imagem de um ambiente de restinga da praia da Engenhoca. A praia é marcada pelo fato do Rio Burundanga desembocar no mar. Localização: Itacaré, Bahia."
+      ],
+      "en": [
+        "Image 1: Image of a restinga environment at Engenhoca beach, surrounded by coconut trees and Atlantic Forest. Location: Itacaré, Bahia.",
+        "Image 2: Image of a relatively large restinga environment at Engenhoca beach, surrounded by coconut trees and firm sand. Location: Itacaré, Bahia.",
+        "Image 3: Image of a restinga environment at Engenhoca beach. The beach is marked by the fact that the Burundanga River flows into the sea. Location: Itacaré, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A praia da Engenhoca é um paraíso escondido, ideal para quem busca sossego e contato com a natureza, rodeada por uma vegetação exuberante.",
+      "en": "Engenhoca beach is a hidden paradise, ideal for those seeking tranquility and contact with nature, surrounded by lush vegetation."
+    }
   },
   {
     "id": "portfolioModal4",
@@ -42,10 +74,20 @@
       "../imagens/Restinga/Havaizinho, Itacaré.jpg",
       "../imagens/Restinga/Havaizinho, Itacaré2.jpg"
     ],
-    "descricoes": [
-      "Imagem 1: Imagem de um ambiente de restinga da praia do Havaizinho, que fica localizada entre duas pontas de arrecifes, sendo cercada por altas árvores. Localização: Itacaré, Bahia.",
-      "Imagem 2: Imagem de um ambiente de restinga da praia do Havaizinho constituída por pequenas enseadas separadas por recifes, com muitos coqueiros, ondas fortes e curta faixa de areia na cheia e durante a maré baixa fica extensa. Localização: Itacaré, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Imagem de um ambiente de restinga da praia do Havaizinho, que fica localizada entre duas pontas de arrecifes, sendo cercada por altas árvores. Localização: Itacaré, Bahia.",
+        "Imagem 2: Imagem de um ambiente de restinga da praia do Havaizinho constituída por pequenas enseadas separadas por recifes, com muitos coqueiros, ondas fortes e curta faixa de areia na cheia e durante a maré baixa fica extensa. Localização: Itacaré, Bahia."
+      ],
+      "en": [
+        "Image 1: Image of a restinga environment at Havaizinho beach, located between two reef points, surrounded by tall trees. Location: Itacaré, Bahia.",
+        "Image 2: Image of a restinga environment at Havaizinho beach consisting of small coves separated by reefs, with many coconut trees, strong waves, and a short stretch of sand at high tide, which becomes extensive at low tide. Location: Itacaré, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A praia do Havaizinho é um lugar tranquilo, perfeito para a prática de surf e para quem busca relaxar em meio à natureza.",
+      "en": "Havaizinho beach is a quiet place, perfect for surfing and for those seeking relaxation in nature."
+    }
   },
   {
     "id": "portfolioModal5",
@@ -53,9 +95,18 @@
     "imagens": [
       "../imagens/Restinga/Ilha da fantasia estrada Ilhéus-Olivença.jpg"
     ],
-    "descricoes": [
-      "Imagem de um ambiente de restinga da Ilha do Desejo na estrada de Ilhéus para Olivença, região onde o mar e o Rio Acuípe se encontram. Área formada por mangues, com água um pouco escura, porém mornas e calmas. Localização: Acuípe, Ilhéus, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga da Ilha do Desejo na estrada de Ilhéus para Olivença, região onde o mar e o Rio Acuípe se encontram. Área formada por mangues, com água um pouco escura, porém mornas e calmas. Localização: Acuípe, Ilhéus, Bahia."
+      ],
+      "en": [
+        "Image of a restinga environment on the Ilha do Desejo on the road from Ilhéus to Olivença, an area where the sea and the Acuípe River meet. An area formed by mangroves, with slightly dark, warm, and calm water. Location: Acuípe, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Ilha do Desejo é um local de beleza natural singular, oferecendo um ambiente tranquilo e ideal para passeios de barco.",
+      "en": "Ilha do Desejo is a place of unique natural beauty, offering a tranquil environment ideal for boat trips."
+    }
   },
   {
     "id": "portfolioModal6",
@@ -66,12 +117,24 @@
       "../imagens/Restinga/Ilha pedra furada barra grande3.jpg",
       "../imagens/Restinga/Pedra Furada barra grande.jpg"
     ],
-    "descricoes": [
-      "Imagem 1: Imagem de um ambiente de restinga da Ilha Pedra Furada, evidenciando a ampla formação rochosa do ambiente. Localização: Vila de Barra Grande, Camamu, Bahia.",
-      "Imagem 2: Imagem de um ambiente de restinga da Ilha Pedra Furada. A praia possui águas calmas e ondas fraquíssimas. A areia é bem fofa e de cor creme. Localização: Vila de Barra Grande, Camamu, Bahia.",
-      "Imagem 3: Imagem de um ambiente de restinga da Ilha Pedra Furada. O local possui este nome devido a uma pedra furada por uma erosão. Localização: Vila de Barra Grande, Camamu, Bahia.",
-      "Imagem 4: Imagem de um ambiente de restinga da Ilha Pedra Furada. Localização: Vila de Barra Grande, Camamu, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Imagem de um ambiente de restinga da Ilha Pedra Furada, evidenciando a ampla formação rochosa do ambiente. Localização: Vila de Barra Grande, Camamu, Bahia.",
+        "Imagem 2: Imagem de um ambiente de restinga da Ilha Pedra Furada. Ao redor da ilha há um visual impressionante. Localização: Vila de Barra Grande, Camamu, Bahia.",
+        "Imagem 3: Imagem de um ambiente de restinga da Ilha Pedra Furada, que também é conhecida por abrigar diversas espécies de aves. Localização: Vila de Barra Grande, Camamu, Bahia.",
+        "Imagem 4: Imagem de um ambiente de restinga da Ilha Pedra Furada, um destino perfeito para a observação de fauna e flora. Localização: Vila de Barra Grande, Camamu, Bahia."
+      ],
+      "en": [
+        "Image 1: Image of a restinga environment at Pedra Furada Island, highlighting the wide rocky formation of the environment. Location: Vila de Barra Grande, Camamu, Bahia.",
+        "Image 2: Image of a restinga environment at Pedra Furada Island. The surroundings of the island feature an impressive view. Location: Vila de Barra Grande, Camamu, Bahia.",
+        "Image 3: Image of a restinga environment at Pedra Furada Island, which is also known for housing various species of birds. Location: Vila de Barra Grande, Camamu, Bahia.",
+        "Image 4: Image of a restinga environment at Pedra Furada Island, a perfect destination for observing fauna and flora. Location: Vila de Barra Grande, Camamu, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Ilha Pedra Furada é um destino conhecido pela sua biodiversidade e é um local popular entre os praticantes de esportes aquáticos.",
+      "en": "Pedra Furada Island is known for its biodiversity and is a popular spot among water sports enthusiasts."
+    }
   },
   {
     "id": "portfolioModal7",
@@ -82,28 +145,58 @@
       "../imagens/Restinga/Mirante Serra Grande.jpg",
       "../imagens/Restinga/Mirante Serra Grande3.jpg"
     ],
-    "descricoes": [
-      "Imagem 1: Imagem de um ambiente de restinga, vista do Mirante II de Serra Grande. Evidenciando o mar cercado pela vegetação verde. Localização: Vila de Serra Grande, Uruçuca, Bahia.",
-      "Imagem 2: Imagem de um ambiente de restinga, vista do Mirante I de Serra Grande, classificada como Área de Proteção Ambiental. A vista fica a 80 m acima do nível do mar. Localização: Vila de Serra Grande, Uruçuca, Bahia.",
-      "Imagem 3: Imagem de um ambiente de restinga, vista da BA-001. Localização: Vila de Serra Grande, Uruçuca, Bahia.",
-      "Imagem 4: Imagem de um ambiente de restinga, destacando a Praia do Pé de Serra. Localização: Vila de Serra Grande, Uruçuca, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Imagem de um ambiente de restinga, vista do Mirante II de Serra Grande. Evidenciando o mar cercado pela vegetação verde. Localização: Vila de Serra Grande, Uruçuca, Bahia.",
+        "Imagem 2: Imagem de um ambiente de restinga, vista do Mirante I de Serra Grande, classificada como Área de Proteção Ambiental. A vista fica a 80 m acima do nível do mar. Localização: Vila de Serra Grande, Uruçuca, Bahia.",
+        "Imagem 3: Imagem de um ambiente de restinga, vista da BA-001. Localização: Vila de Serra Grande, Uruçuca, Bahia.",
+        "Imagem 4: Imagem de um ambiente de restinga, destacando a Praia do Pé de Serra. Localização: Vila de Serra Grande, Uruçuca, Bahia."
+      ],
+      "en": [
+        "Image 1: Image of a restinga environment, view from Mirante II in Serra Grande. Highlighting the sea surrounded by green vegetation. Location: Vila de Serra Grande, Uruçuca, Bahia.",
+        "Image 2: Image of a restinga environment, view from Mirante I in Serra Grande, classified as an Environmental Protection Area. The view is 80 m above sea level. Location: Vila de Serra Grande, Uruçuca, Bahia.",
+        "Image 3: Image of a restinga environment, view from BA-001. Location: Vila de Serra Grande, Uruçuca, Bahia.",
+        "Image 4: Image of a restinga environment, highlighting Praia do Pé de Serra. Location: Vila de Serra Grande, Uruçuca, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Os mirantes de Serra Grande são locais de contemplação, onde os visitantes podem observar a transição da vegetação de restinga até o mar, destacando a biodiversidade local.",
+      "en": "The Serra Grande viewpoints are places of contemplation, where visitors can observe the transition from restinga vegetation to the sea, highlighting local biodiversity."
+    }
   },
   {
     "id": "portfolioModal8",
     "titulo": "Mirante Ponta do Xareu, Itacaré",
     "imagens": ["../imagens/Restinga/Mirante ponta do Xareu, Itacaré.jpg"],
-    "descricoes": [
-      "Imagem de um ambiente de restinga no mirante da Ponta do Xareu. Evidenciando as praias da Coroinha e do Pontal, essa última do outro lado do estuário do Rio de Contas. Localização: Itacaré, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga no mirante da Ponta do Xareu. Evidenciando as praias da Coroinha e do Pontal, essa última do outro lado do estuário do Rio de Contas. Localização: Itacaré, Bahia."
+      ],
+      "en": [
+        "Image of a restinga environment at the Ponta do Xareu viewpoint. Highlighting the beaches of Coroinha and Pontal, the latter on the other side of the Rio de Contas estuary. Location: Itacaré, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "O Mirante da Ponta do Xareu oferece vistas panorâmicas incríveis das praias locais, especialmente ao pôr do sol, sendo um ponto turístico muito visitado em Itacaré.",
+      "en": "The Ponta do Xareu viewpoint offers incredible panoramic views of the local beaches, especially at sunset, being a popular tourist spot in Itacaré."
+    }
   },
   {
     "id": "portfolioModal9",
     "titulo": "Praia da Concha, Itacaré",
     "imagens": ["../imagens/Restinga/Praia da concha, Itacaré.jpg"],
-    "descricoes": [
-      "Imagem de um ambiente de restinga da Praia da Concha. É uma praia urbana com ondas muito pequenas, nela ocorre o encontro do Rio de Contas com o mar. Localização: Itacaré, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga da Praia da Concha. É uma praia urbana com ondas muito pequenas, nela ocorre o encontro do Rio de Contas com o mar. Localização: Itacaré, Bahia."
+      ],
+      "en": [
+        "Image of a restinga environment at Praia da Concha. It is an urban beach with very small waves, where the Rio de Contas meets the sea. Location: Itacaré, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Praia da Concha é ideal para banho e práticas de esportes aquáticos, como o stand-up paddle, devido às suas águas calmas.",
+      "en": "Praia da Concha is ideal for swimming and water sports, such as stand-up paddleboarding, due to its calm waters."
+    }
   },
   {
     "id": "portfolioModal10",
@@ -116,63 +209,131 @@
       "../imagens/Restinga/Praia do Espelho Porto Seguro18.jpg",
       "../imagens/Restinga/Praia do Espelho Porto Seguro19.jpg"
     ],
-    "descricoes": [
-      "Imagem 1: Imagem de um ambiente de restinga da Praia do Espelho. Essa praia caracteriza-se por reunir piscinas naturais de água cristalina e morna entre recifes, areias claras, falésias avermelhadas e vegetação nativa com coqueirais. Localização: Porto Seguro, Bahia.",
-      "Imagem 2: Imagem de um ambiente de restinga da Praia do Espelho. Evidenciando coqueirais que beiram a faixa de areia. Localização: Porto Seguro, Bahia.",
-      "Imagem 3: Imagem de um ambiente de restinga da Praia do Espelho. Evidenciando as falésias em tons de ocre. Localização: Porto Seguro, Bahia.",
-      "Imagem 4: Imagem de um ambiente de restinga da Praia do Espelho, que recebe esse nome devido ao efeito que o Sol promove, refletindo nas piscinas naturais que se formam na maré baixa nesta praia. Localização: Porto Seguro, Bahia.",
-      "Imagem 5: Imagem de um ambiente de restinga da Praia do Espelho. Essa praia caracteriza-se por reunir piscinas naturais de água cristalina e morna entre recifes, areias claras, falésias avermelhadas e vegetação nativa com coqueirais. Localização: Porto Seguro, Bahia.",
-      "Imagem 6: Imagem de um ambiente de restinga da Praia do Espelho, pertencente ao distrito de Caraíva. Localização: Porto Seguro, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Imagem de um ambiente de restinga da Praia do Espelho. Essa praia caracteriza-se por reunir piscinas naturais de água cristalina e morna entre recifes, areias claras, falésias avermelhadas e vegetação nativa com coqueirais. Localização: Porto Seguro, Bahia.",
+        "Imagem 2: Imagem de um ambiente de restinga da Praia do Espelho. Evidenciando coqueirais que beiram a faixa de areia. Localização: Porto Seguro, Bahia.",
+        "Imagem 3: Imagem de um ambiente de restinga da Praia do Espelho. Evidenciando as falésias em tons de ocre. Localização: Porto Seguro, Bahia.",
+        "Imagem 4: Imagem de um ambiente de restinga da Praia do Espelho, que recebe esse nome devido ao efeito que o Sol promove, refletindo nas piscinas naturais que se formam na maré baixa nesta praia. Localização: Porto Seguro, Bahia.",
+        "Imagem 5: Imagem de um ambiente de restinga da Praia do Espelho. Essa praia caracteriza-se por reunir piscinas naturais de água cristalina e morna entre recifes, areias claras, falésias avermelhadas e vegetação nativa com coqueirais. Localização: Porto Seguro, Bahia.",
+        "Imagem 6: Imagem de um ambiente de restinga da Praia do Espelho, pertencente ao distrito de Caraíva. Localização: Porto Seguro, Bahia."
+      ],
+      "en": [
+        "Image 1: Image of a restinga environment at Praia do Espelho. This beach is characterized by natural pools of warm, clear water among reefs, clear sands, red cliffs, and native coconut groves. Location: Porto Seguro, Bahia.",
+        "Image 2: Image of a restinga environment at Praia do Espelho. Highlighting the coconut groves lining the sand. Location: Porto Seguro, Bahia.",
+        "Image 3: Image of a restinga environment at Praia do Espelho. Highlighting the ocher-colored cliffs. Location: Porto Seguro, Bahia.",
+        "Image 4: Image of a restinga environment at Praia do Espelho, which gets its name due to the reflective effect of the Sun on the natural pools formed at low tide. Location: Porto Seguro, Bahia.",
+        "Image 5: Image of a restinga environment at Praia do Espelho. This beach is characterized by natural pools of warm, clear water among reefs, clear sands, red cliffs, and native coconut groves. Location: Porto Seguro, Bahia.",
+        "Image 6: Image of a restinga environment at Praia do Espelho, part of the district of Caraíva. Location: Porto Seguro, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Praia do Espelho é famosa pelo fenômeno visual que ocorre durante a maré baixa, quando as piscinas naturais refletem o céu e a paisagem ao redor, criando um 'espelho' natural.",
+      "en": "Praia do Espelho is famous for the visual phenomenon that occurs during low tide, when the natural pools reflect the sky and surrounding landscape, creating a natural 'mirror'."
+    }
   },
   {
     "id": "portfolioModal11",
     "titulo": "Praia do Backdoor, Ilhéus",
     "imagens": ["../imagens/Restinga/Praia do backdoor Ilhéus.jpg"],
-    "descricoes": [
-      "Imagem de um ambiente de restinga da Praia do Backdoor, que possui um vasto coqueiral e areia um pouco escura. Localização: Ilhéus, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga da Praia do Backdoor, que possui um vasto coqueiral e areia um pouco escura. Localização: Ilhéus, Bahia."
+      ],
+      "en": [
+        "Image of a restinga environment at Praia do Backdoor, which has a vast coconut grove and slightly dark sand. Location: Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Praia do Backdoor é conhecida entre os surfistas pela qualidade das ondas, sendo palco de competições de surf na região.",
+      "en": "Praia do Backdoor is known among surfers for its wave quality and is the site of surfing competitions in the region."
+    }
   },
   {
     "id": "portfolioModal12",
     "titulo": "Praia Ponta de Mutá, Barra Grande",
     "imagens": ["../imagens/Restinga/Praia ponta de mutá Barra Grande.jpg"],
-    "descricoes": [
-      "Imagem de um ambiente de restinga, praia Ponta de Mutá, com areias lisas e de cor creme. Localização: Vila de Barra Grande, Península de Maraú, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga, praia Ponta de Mutá, com areias lisas e de cor creme. Localização: Vila de Barra Grande, Península de Maraú, Bahia."
+      ],
+      "en": [
+        "Image of a restinga environment, Ponta de Mutá beach, with smooth, cream-colored sands. Location: Vila de Barra Grande, Península de Maraú, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Praia Ponta de Mutá é famosa por seu pôr do sol deslumbrante, um dos mais bonitos da Península de Maraú.",
+      "en": "Ponta de Mutá Beach is famous for its stunning sunset, one of the most beautiful in the Maraú Peninsula."
+    }
   },
   {
     "id": "portfolioModal13",
     "titulo": "Sapetinga, Ilhéus",
     "imagens": ["../imagens/Restinga/Sapetinga, Ilhéus.jpg"],
-    "descricoes": [
-      "Imagem de um ambiente de restinga. Onde se avista também o bioma manguezal. Localização: Baía da Sapetinga, Ilhéus, Bahia. A Baía caracteriza-se por ser uma forma litorânea que apresenta uma forma arredondada quase fechada, lembrando a forma da letra “u” ou de uma ferradura."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga. Onde se avista também o bioma manguezal. Localização: Baía da Sapetinga, Ilhéus, Bahia. A Baía caracteriza-se por ser uma forma litorânea que apresenta uma forma arredondada quase fechada, lembrando a forma da letra 'u' ou de uma ferradura."
+      ],
+      "en": [
+        "Image of a restinga environment. Also visible is the mangrove biome. Location: Sapetinga Bay, Ilhéus, Bahia. The bay is characterized as a coastal form with an almost closed round shape, resembling the letter 'u' or a horseshoe."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Baía da Sapetinga é um local privilegiado para a observação de aves migratórias que utilizam o manguezal como ponto de repouso.",
+      "en": "Sapetinga Bay is a prime location for observing migratory birds that use the mangrove as a resting point."
+    }
   },
   {
     "id": "portfolioModal14",
     "titulo": "Praia do Sargi, Serra Grande",
     "imagens": ["../imagens/Restinga/Serra Grande.jpg"],
-    "descricoes": [
-      "Imagem de um ambiente de restinga. Praia do Sargi. Localização: Serra Grande, Uruçuca, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga. Praia do Sargi. Localização: Serra Grande, Uruçuca, Bahia."
+      ],
+      "en": [
+        "Image of a restinga environment. Sargi Beach. Location: Serra Grande, Uruçuca, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Praia do Sargi é famosa entre os moradores locais por suas ondas tranquilas, sendo um local ideal para famílias e banhistas que buscam sossego.",
+      "en": "Sargi Beach is well-known among locals for its calm waves, making it an ideal spot for families and beachgoers looking for tranquility."
+    }
   },
   {
     "id": "portfolioModal15",
     "titulo": "Praia da Costa, Itacaré",
     "imagens": ["../imagens/Restinga/praia da costa, Itacaré.jpg"],
-    "descricoes": [
-      "Imagem de um ambiente de restinga da Praia da Costa. Caracteriza-se por ser uma pequena praia com muitos coqueiros e cercada de pedras. Localização: Itacaré, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga da Praia da Costa. Caracteriza-se por ser uma pequena praia com muitos coqueiros e cercada de pedras. Localização: Itacaré, Bahia."
+      ],
+      "en": [
+        "Image of a restinga environment at Praia da Costa. It is characterized by being a small beach with many coconut trees and surrounded by rocks. Location: Itacaré, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Praia da Costa é conhecida por seu ambiente mais isolado, atraindo visitantes que preferem lugares tranquilos e em contato com a natureza.",
+      "en": "Praia da Costa is known for its more secluded environment, attracting visitors who prefer quiet places and close contact with nature."
+    }
   },
   {
     "id": "portfolioModal16",
     "titulo": "Trilha do Havaizinho, Itacaré",
     "imagens": [
-      "../imagens/Restinga/Trilha do Havaizinho para Engenhoca, Itacaré.jpg"
+      "../imagens/Restinga/trilha do havaizinho para Engenhoca, Itacaré.jpg"
     ],
-    "descricoes": [
-      "Imagem de um ambiente de restinga. Trilha do Havaizinho para Engenhoca. A restinga é originada pelo recuo do mar através do tempo, sendo composta por solos arenosos, onde se desenvolve uma variada vegetação. Trata-se de um tipo de relevo litorâneo presente ao longo da costa brasileira. Vista da praia do Havaizinho. Localização: Itacaré, Bahia."
-    ]
+    "descricoes": {
+      "pt": [
+        "Imagem de um ambiente de restinga. Trilha do Havaizinho para Engenhoca. A restinga é originada pelo recuo do mar através do tempo, sendo composta por solos arenosos, onde se desenvolve uma variada vegetação. Trata-se de um tipo de relevo litorâneo presente ao longo da costa brasileira. Vista da praia do Havaizinho. Localização: Itacaré, Bahia."
+      ],
+      "en": [
+        "Image of a restinga environment. Havaizinho Trail to Engenhoca. The restinga is formed by the retreat of the sea over time, composed of sandy soils where varied vegetation develops. It is a type of coastal relief found along the Brazilian coast. View of Havaizinho beach. Location: Itacaré, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A Trilha do Havaizinho é um dos percursos mais apreciados pelos turistas que visitam Itacaré, combinando belas vistas naturais com praias isoladas.",
+      "en": "The Havaizinho Trail is one of the most appreciated hikes by tourists visiting Itacaré, combining beautiful natural views with secluded beaches."
+    }
   }
 ]

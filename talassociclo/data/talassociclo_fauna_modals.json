@@ -1,0 +1,363 @@
+[
+  {
+    "id": "portfolioModal1",
+    "titulo": "Actiniaria",
+    "imagens": [
+      "../imagens/Talassociclo/anêmona do mar praia da concha Ilhéus.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Espécie Actiniaria popularmente conhecida como Anêmona-do-mar, é um animal marinho pertencente ao Filo Cnidaria e é encontrado em regiões de entremarés, recifes, costões rochosos, ilhas oceânicas e, dependendo da espécie, até mesmo em manguezais. Pertence à classe Anthozoa e possui corpo colunar com uma boca na extremidade superior envolta por tentáculos. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Species Actiniaria, popularly known as Sea Anemone, is a marine animal belonging to the Phylum Cnidaria, found in intertidal zones, reefs, rocky shores, oceanic islands, and sometimes even mangroves. It belongs to the Anthozoa class and has a columnar body with a mouth at the top surrounded by tentacles. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "As anêmonas-do-mar possuem uma relação simbiótica com certos tipos de peixes, como o peixe-palhaço, oferecendo proteção mútua.",
+      "en": "Sea anemones have a symbiotic relationship with certain types of fish, like the clownfish, providing mutual protection."
+    }
+  },
+  {
+    "id": "portfolioModal2",
+    "titulo": "Siderastrea stellata",
+    "imagens": ["../imagens/Talassociclo/Corais praia da concha Ilhéus.jpg"],
+    "descricoes": {
+      "pt": [
+        "Coral-estrelado (Siderastrea stellata) um dos corais da biota aquática. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Star coral (Siderastrea stellata) is one of the corals in the aquatic biota. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Esse coral é resistente a mudanças ambientais, sobrevivendo em condições de alta temperatura e turbidez.",
+      "en": "This coral is resistant to environmental changes, surviving in conditions of high temperature and turbidity."
+    }
+  },
+  {
+    "id": "portfolioModal3",
+    "titulo": "Callinectes marginatus",
+    "imagens": ["../imagens/Talassociclo/Curstáceo serra grande.jpg"],
+    "descricoes": {
+      "pt": [
+        "Espécie Callinectes marginatus popularmente conhecida como Caxangá, é um crustáceo decápode braquiuro da família dos portunídeos. Região: Serra Grande, Uruçuca, Bahia."
+      ],
+      "en": [
+        "Species Callinectes marginatus, popularly known as Caxangá, is a brachyuran decapod crustacean from the Portunidae family. Location: Serra Grande, Uruçuca, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "O Caxangá é conhecido por sua habilidade de nadar rapidamente devido às suas patas traseiras adaptadas como remos.",
+      "en": "Caxangá is known for its ability to swim quickly due to its back legs adapted as paddles."
+    }
+  },
+  {
+    "id": "portfolioModal4",
+    "titulo": "Recifes de corais, Arraial d'Ajuda",
+    "imagens": [
+      "../imagens/Talassociclo/Fauna Corais, Arraial d_ajuda.jpg",
+      "../imagens/Talassociclo/Fauna Corais, Arraial d_ajuda2.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Ecossistema de Recifes de corais, onde se observa estrela-do-mar (Filo: Equinodermo), vivendo nesse ambiente. Os corais pertencem ao Filo Cnidária e são animais invertebrados marinhos.",
+        "Imagem 2: Imagem de um recife de corais. Apesar de parecerem uma grande quantidade de rochas, os recifes de corais são, na realidade, formações produzidas, principalmente, por um animal marinho denominado genericamente de coral. Região: Arraial d’ Ajuda, município de Porto Seguro, Bahia."
+      ],
+      "en": [
+        "Image 1: Coral reef ecosystem, where a starfish (Phylum: Echinoderm) can be observed living in this environment. Corals belong to the Phylum Cnidaria and are marine invertebrate animals.",
+        "Image 2: Image of a coral reef. Despite appearing like a mass of rocks, coral reefs are actually formations produced mainly by marine animals called corals. Location: Arraial d'Ajuda, Porto Seguro, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Os recifes de corais protegem as costas contra a erosão, dissipando a energia das ondas antes que cheguem à terra.",
+      "en": "Coral reefs protect coastlines from erosion by dissipating wave energy before it reaches the shore."
+    }
+  },
+  {
+    "id": "portfolioModal5",
+    "titulo": "Diploria strigosa",
+    "imagens": [
+      "../imagens/Talassociclo/Fauna coral cérebro, Arraial d_ajuda.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Espécie Diploria strigosa popularmente conhecida como Coral-cérebro, é uma espécie colonial de coral pedregoso da família Mussidae. Ocorre em recifes em águas rasas no Oceano Atlântico Oeste e no Mar do Caribe. Região: Arraial d’ajuda, município de Porto Seguro, Bahia."
+      ],
+      "en": [
+        "Species Diploria strigosa, popularly known as Brain Coral, is a colonial species of stony coral in the Mussidae family. It occurs in reefs in shallow waters in the Western Atlantic Ocean and the Caribbean Sea. Location: Arraial d'Ajuda, Porto Seguro, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "O Coral-cérebro pode viver por centenas de anos, crescendo lentamente ao longo do tempo.",
+      "en": "Brain coral can live for hundreds of years, growing slowly over time."
+    }
+  },
+  {
+    "id": "portfolioModal6",
+    "titulo": "Astacidea",
+    "imagens": ["../imagens/Talassociclo/Lagostim praia da concha Ilhéus.jpg"],
+    "descricoes": {
+      "pt": [
+        "Espécie pertencente ao gênero Astacidea popularmente conhecida como Lagostim, pertencente à ordem: Decapoda, classe: Malacostraca, Família: Astacidae e Filo: Arthropoda. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Species belonging to the Astacidea genus, popularly known as Crayfish, belonging to the order Decapoda, class Malacostraca, family Astacidae, and phylum Arthropoda. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Os lagostins podem regenerar suas garras e outras partes do corpo perdidas em confrontos ou predadores.",
+      "en": "Crayfish can regenerate their claws and other body parts lost in confrontations or to predators."
+    }
+  },
+  {
+    "id": "portfolioModal7",
+    "titulo": "Mytilus edulis",
+    "imagens": ["../imagens/Talassociclo/Mexilhão praia da Concha Ilhéus.jpg"],
+    "descricoes": {
+      "pt": [
+        "Espécie Mytilus edulis popularmente conhecida como Mexilhão, é um molusco bivalve, protegido por duas conchas de coloração preto-azulada, que vive próximo às costas marinhas e superfícies rochosas de oceanos e superfícies de água doce. São animais filtradores e que se alimentam de algas microscópicas e materiais em suspensão. Por isso, podem concentrar contaminantes que estiverem presentes em seu habitat. Assim como as ostras, os mexilhões também possuem a capacidade de produzir pérolas. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Species Mytilus edulis, popularly known as Mussel, is a bivalve mollusk protected by two bluish-black shells, living near marine shores and rocky surfaces of oceans and freshwater surfaces. They are filter feeders and consume microscopic algae and suspended materials, which is why they can concentrate contaminants present in their habitat. Like oysters, mussels also have the ability to produce pearls. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Os mexilhões são usados como bioindicadores, já que acumulam poluentes presentes na água, ajudando a monitorar a qualidade ambiental.",
+      "en": "Mussels are used as bioindicators since they accumulate pollutants from the water, helping to monitor environmental quality."
+    }
+  },
+  {
+    "id": "portfolioModal8",
+    "titulo": "Zoea",
+    "imagens": [
+      "../imagens/Talassociclo/Microcrustáceo praia da concha Ilhéus.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Filhote de siri, no estágio de desenvolvimento chamado de Zoea. Ele fica nesse estágio vivendo na água durante todo o período, que dura cerca de 18 dias. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Crab larva in the developmental stage called Zoea. It stays in this stage living in the water for about 18 days. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "As larvas de siri chamadas Zoea possuem espinhos dorsais que as ajudam a flutuar e se defender de predadores.",
+      "en": "Crab larvae called Zoea have dorsal spines that help them float and defend against predators."
+    }
+  },
+  {
+    "id": "portfolioModal9",
+    "titulo": "Moluscos",
+    "imagens": [
+      "../imagens/Talassociclo/Molusco praia da Concha Ilhéus.jpg",
+      "../imagens/Talassociclo/Molusco praia da Concha Ilhéus2.jpg",
+      "../imagens/Talassociclo/Molusco praia da Concha Ilhéus3.jpg",
+      "../imagens/Talassociclo/Molusco praia da Concha Ilhéus4.jpg",
+      "../imagens/Talassociclo/Molusco praia da Concha Ilhéus5.jpg",
+      "../imagens/Talassociclo/Molusco praia da Concha Ilhéus6.jpg",
+      "../imagens/Talassociclo/Molusco praia da Concha Ilhéus7.jpg",
+      "../imagens/Talassociclo/Molusco praia da Concha Ilhéus8.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Espécie Littorina littorea popularmente conhecida como Caramujo, pertencente à classe: Gastropoda, Família: Gastrópodes e Filo: Moluscos. Região: Praia da Concha, município de Ilhéus, Bahia.",
+        "Imagem 2: Espécie Littorina littorea popularmente conhecida como Caramujo, é um molusco que vive no Oceano Atlântico. São caracterizados por apresentar uma concha lisa que forma uma espiral em direção à parte mais sobressaliente. Região: Praia da Concha, município de Ilhéus, Bahia.",
+        "Imagem 3: Concha de Moluscos gastrópodes, pertencente ao Filo: Molusco, conhecidos popularmente como búzios que habitam ambientes aquáticos marinhos. Região: Praia da Concha, município de Ilhéus, Bahia.",
+        "Imagem 4: Molusco que possui uma concha sólida, inequilateral, inequivalente, com forma circular e irregular. Região: Praia da Concha, município de Ilhéus, Bahia.",
+        "Imagem 5: Náutilo, molusco que se caracteriza por possuir concha espiralada. Pertence ao gênero Nautilus, Classe: Cephalopoda, Subclasse: Nautiloidea, Ordem: Nautilida. Região: Praia da Concha, município de Ilhéus, Bahia.",
+        "Imagem 6: Náutilo, animal invertebrado que se caracteriza por possuir concha espiralada. Pertence ao gênero Nautilus, Classe: Cephalopoda, Subclasse: Nautiloidea, Ordem: Nautilida. Região: Praia da Concha, município de Ilhéus, Bahia.",
+        "Imagem 7: Espécie Crassostrea brasiliana popularmente conhecida como ostra de mangue, pertencente à ordem: Ostreida, classe: Bivalves, Família: Ostreidae e Filo: Moluscos. Região: Praia da Concha, município de Ilhéus, Bahia.",
+        "Imagem 8: Espécie Crassostrea brasiliana popularmente conhecida como ostra de mangue, molusco bivalve de interesse comercial que ocorre em praticamente todo o litoral brasileiro. Pertencente à Ostreidae. Podem ser encontrados em fundos de lama ou areia e lama. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Image 1: Species Littorina littorea, popularly known as Snail, belonging to the class Gastropoda, family Gastropods, and phylum Mollusca. Location: Praia da Concha, Ilhéus, Bahia.",
+        "Image 2: Species Littorina littorea, popularly known as Snail, is a mollusk that lives in the Atlantic Ocean. They are characterized by having a smooth shell that spirals towards the most prominent part. Location: Praia da Concha, Ilhéus, Bahia.",
+        "Image 3: Shell of gastropod mollusks, belonging to the phylum Mollusca, popularly known as whelks, which inhabit marine aquatic environments. Location: Praia da Concha, Ilhéus, Bahia.",
+        "Image 4: Mollusk that has a solid, inequilateral, inequivalent shell with a circular and irregular shape. Location: Praia da Concha, Ilhéus, Bahia.",
+        "Image 5: Nautilus, a mollusk characterized by its spiral shell. It belongs to the genus Nautilus, class Cephalopoda, subclass Nautiloidea, order Nautilida. Location: Praia da Concha, Ilhéus, Bahia.",
+        "Image 6: Nautilus, an invertebrate animal characterized by its spiral shell. It belongs to the genus Nautilus, class Cephalopoda, subclass Nautiloidea, order Nautilida. Location: Praia da Concha, Ilhéus, Bahia.",
+        "Image 7: Species Crassostrea brasiliana, popularly known as mangrove oyster, belonging to the order Ostreida, class Bivalvia, family Ostreidae, and phylum Mollusca. Location: Praia da Concha, Ilhéus, Bahia.",
+        "Image 8: Species Crassostrea brasiliana, popularly known as mangrove oyster, a bivalve mollusk of commercial interest that occurs throughout the Brazilian coast. They can be found in muddy or sandy-muddy bottoms. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Alguns moluscos, como os náutilos, podem controlar sua flutuabilidade ajustando o volume de gás em suas câmaras internas.",
+      "en": "Some mollusks, like nautiluses, can control their buoyancy by adjusting the volume of gas in their internal chambers."
+    }
+  },
+  {
+    "id": "portfolioModal10",
+    "titulo": "Ouriço do mar",
+    "imagens": [
+      "../imagens/Talassociclo/Ouriço do mar praia da Concha Ilhéus.jpg",
+      "../imagens/Talassociclo/Ouriço do mar praia da Concha Ilhéus2.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Espécie Echinometra lucunter popularmente conhecida como Ouriço-do-mar-negro, tem corpo globoso e simetria radial, a qual lhe permite tomar contato com todas as direções do espaço, compensando a pouca mobilidade desse animal. Tem espinhos móveis de tamanho variado, presos a uma carapaça calcária rígida, cujo diâmetro varia de 7 a 15 cm. Região: Praia da Concha, município de Ilhéus, Bahia.",
+        "Imagem 2: Ouriço-do-mar, pertencente a ordem: Cidaroida, classe: Echinoidea, Família: Cidaridae e Filo: Echinodermata. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Image 1: Species Echinometra lucunter, popularly known as Black sea urchin, has a globose body and radial symmetry, allowing it to interact in all directions despite its limited mobility. It has movable spines of various sizes attached to a rigid calcareous shell, with a diameter ranging from 7 to 15 cm. Location: Praia da Concha, Ilhéus, Bahia.",
+        "Image 2: Sea urchin, belonging to the order Cidaroida, class Echinoidea, family Cidaridae, and phylum Echinodermata. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Os ouriços-do-mar possuem um conjunto de dentes afiados chamado lanterna de Aristóteles, usado para raspar algas das rochas.",
+      "en": "Sea urchins have a set of sharp teeth called Aristotle's lantern, used to scrape algae off rocks."
+    }
+  },
+  {
+    "id": "portfolioModal11",
+    "titulo": "Ginglymostoma cirratum",
+    "imagens": [
+      "../imagens/Talassociclo/peixe tubarão lixa Ilha dos aquários porto seguro bahia.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Espécie Ginglymostoma cirratum popularmente conhecida como Tubarão-lixa, essa espécie pode medir até 4 m de comprimento e chegar aos 500 kg de peso, possui dentes pequenos e bem poderosos, capazes de infligir ferimentos graves. No entanto, não são muito agressivos, exceto se ameaçados. Região: Ilha dos Aquários, município de Porto Seguro, Bahia."
+      ],
+      "en": [
+        "Species Ginglymostoma cirratum, popularly known as Nurse Shark, this species can grow up to 4 meters in length and reach 500 kg in weight. It has small but powerful teeth, capable of causing serious injuries. However, they are not very aggressive unless threatened. Location: Ilha dos Aquários, Porto Seguro, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "O tubarão-lixa é capaz de respirar mesmo estando imóvel, ao contrário da maioria dos tubarões que precisam estar em movimento.",
+      "en": "The nurse shark can breathe while stationary, unlike most sharks that need to keep moving."
+    }
+  },
+  {
+    "id": "portfolioModal12",
+    "titulo": "Peixe Mero",
+    "imagens": [
+      "../imagens/Talassociclo/Peixes mero adultos ilha dos aquários, porto seguro.jpg",
+      "../imagens/Talassociclo/Peixes mero ilha dos aquários, porto seguro.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Peixe mero adulto. Região: Ilha dos Aquários, Arraial d’Ajuda, município de Porto Seguro, Bahia.",
+        "Imagem 2: Espécie Epinephelus itajara popularmente conhecida como Mero, é uma espécie de peixe que habita zonas estuarinas (manguezais) e áreas costeiras, por isso, costumam ser encontrados em manguezais e costões rochosos, próximos de naufrágios, pilares de pontes e parcéis. A espécie é muito vulnerável à pesca, pois possui taxas de crescimento lento, atingem grandes tamanhos, agregam-se para a reprodução, maturam sexualmente tardiamente e são territorialistas. Região: Ilha dos Aquários, Arraial d’Ajuda, município de Porto Seguro, Bahia."
+      ],
+      "en": [
+        "Image 1: Adult Goliath grouper. Location: Ilha dos Aquários, Arraial d'Ajuda, Porto Seguro, Bahia.",
+        "Image 2: Species Epinephelus itajara, popularly known as Goliath grouper, is a fish species that inhabits estuarine zones (mangroves) and coastal areas, often found near mangroves and rocky shores, close to shipwrecks, bridge pillars, and reefs. This species is very vulnerable to fishing due to its slow growth rates, large sizes, late sexual maturity, and territorial behavior. Location: Ilha dos Aquários, Arraial d'Ajuda, Porto Seguro, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "O peixe mero pode viver mais de 50 anos e atingir mais de 2,5 metros de comprimento.",
+      "en": "The Goliath grouper can live for more than 50 years and grow over 2.5 meters in length."
+    }
+  },
+  {
+    "id": "portfolioModal13",
+    "titulo": "Serrasalmus marginatus",
+    "imagens": [
+      "../imagens/Talassociclo/Peixes piranha branca ilha dos aquários, porto seguro.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Espécie Serrasalmus marginatus popularmente conhecida como Piranha Branca ou Pirambeba, é uma espécie temida devido seu ataque agressivo e frenético. Possui dentes triangulares extremamente afiados e mandíbula potente, além do focinho achatado, características que a credenciam a atacar e morder com força notável. Região: Ilha dos Aquários, Arraial d’Ajuda, município de Porto Seguro, Bahia."
+      ],
+      "en": [
+        "Species Serrasalmus marginatus, popularly known as White Piranha or Pirambeba, is a feared species due to its aggressive and frantic attacks. It has extremely sharp triangular teeth and a powerful jaw, along with a flattened snout, characteristics that allow it to bite with remarkable strength. Location: Ilha dos Aquários, Arraial d'Ajuda, Porto Seguro, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "As piranhas são conhecidas por sua visão aguçada, o que as ajuda a localizar presas mesmo em águas turvas.",
+      "en": "Piranhas are known for their sharp vision, which helps them locate prey even in murky waters."
+    }
+  },
+  {
+    "id": "portfolioModal14",
+    "titulo": "Polychaeta",
+    "imagens": [
+      "../imagens/Talassociclo/Poliqueta anelídeo praia da Concha Ilhéus.jpg",
+      "../imagens/Talassociclo/Poliqueta anelídeo praia da Concha Ilhéus2.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Imagem 1: Poliquetas são organismos marinhos que apresentam uma grande quantidade de formas e estilos de vida. Eles podem mover-se livremente (errantes) ou ser sedentários, construindo e vivendo em galerias e buracos. Existem aproximadamente 8.000 espécies diferentes. A grande maioria possui tamanho menor que 10 cm de comprimento, apesar de existirem espécies de um metro. Região: Praia da Concha, município de Ilhéus, Bahia.",
+        "Imagem 2: Poliquetas, pertencentes a ordem: Palpata, classe: Polychaeta, Família: Sponionidae e Filo: Anelídeo. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Image 1: Polychaetes are marine organisms with a wide variety of forms and lifestyles. They can be free-moving (errant) or sedentary, building and living in burrows and tubes. There are approximately 8,000 different species. Most are less than 10 cm long, although some species can grow up to a meter. Location: Praia da Concha, Ilhéus, Bahia.",
+        "Image 2: Polychaetes, belonging to the order Palpata, class Polychaeta, family Sponionidae, and phylum Annelida. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Algumas espécies de poliquetas possuem cerdas que podem injetar toxinas para se defender de predadores.",
+      "en": "Some polychaete species have bristles that can inject toxins to defend against predators."
+    }
+  },
+  {
+    "id": "portfolioModal15",
+    "titulo": "Porífero",
+    "imagens": ["../imagens/Talassociclo/Porífero praia da Concha Ilhéus.jpg"],
+    "descricoes": {
+      "pt": [
+        "Espécie Porífero popularmente conhecida como esponjas, pertencente a ordem: Haplosclerida, classe: Desmospongiae, Família: Sisyridae e Filo: Porifera. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Species Porifera, popularly known as sponges, belonging to the order Haplosclerida, class Desmospongiae, family Sisyridae, and phylum Porifera. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Os poríferos filtram a água do ambiente para capturar partículas de alimento, podendo filtrar até mil litros de água por dia.",
+      "en": "Sponges filter water from their environment to capture food particles, and can filter up to 1,000 liters of water per day."
+    }
+  },
+  {
+    "id": "portfolioModal16",
+    "titulo": "Gymnura altavela",
+    "imagens": [
+      "../imagens/Talassociclo/Raia, ilha dos aquários, porto seguro.jpg"
+    ],
+    "descricoes": {
+      "pt": [
+        "Espécie Gymnura altavela popularmente conhecida como Raia-borboleta, é uma espécie de raia na família Gymnuridae. Mede de 1 a 2 metros de comprimento e nada de 1 a 70 metros de profundidade. Região: Ilha dos Aquários, Arraial d’Ajuda, município de Porto Seguro, Bahia."
+      ],
+      "en": [
+        "Species Gymnura altavela, popularly known as Butterfly ray, is a species of ray in the family Gymnuridae. It measures 1 to 2 meters in length and swims at depths of 1 to 70 meters. Location: Ilha dos Aquários, Arraial d'Ajuda, Porto Seguro, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "A raia-borboleta pode se enterrar na areia para se camuflar e se proteger de predadores.",
+      "en": "The butterfly ray can bury itself in the sand to camouflage and protect itself from predators."
+    }
+  },
+  {
+    "id": "portfolioModal17",
+    "titulo": "Favia leptophylla",
+    "imagens": ["../imagens/Talassociclo/Corais praia da concha Ilhéus2.jpg"],
+    "descricoes": {
+      "pt": [
+        "Animal invertebrado, com corpo de consistência mole e provavelmente pertencente à espécie Favia leptophylla. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Invertebrate animal with a soft body, likely belonging to the species Favia leptophylla. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "Os corais Favia têm uma simbiose com algas que vivem dentro de seus tecidos, ajudando-os a produzir energia.",
+      "en": "Favia corals have a symbiotic relationship with algae that live within their tissues, helping them produce energy."
+    }
+  },
+  {
+    "id": "portfolioModal18",
+    "titulo": "Mussismilia hispida",
+    "imagens": ["../imagens/Talassociclo/Corais praia da concha Ilhéus3.jpg"],
+    "descricoes": {
+      "pt": [
+        "Mussismilia hispida, conhecida como coral-cérebro. Região: Praia da Concha, município de Ilhéus, Bahia."
+      ],
+      "en": [
+        "Mussismilia hispida, known as brain coral. Location: Praia da Concha, Ilhéus, Bahia."
+      ]
+    },
+    "curiosidade": {
+      "pt": "O coral Mussismilia hispida é conhecido por sua estrutura em forma de cérebro, que ajuda a proteger o animal de predadores.",
+      "en": "The coral Mussismilia hispida is known for its brain-like structure, which helps protect the animal from predators."
+    }
+  }
+]
