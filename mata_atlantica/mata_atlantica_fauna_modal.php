@@ -24,10 +24,10 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                                    <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                                    
                                      <!-- CARROUSEL DAS IMAGENS DO CACAU -->
-                            <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                            <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                             
                            
                            <div id="demo" class="carousel slide" data-ride="carousel">
@@ -90,7 +90,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/pupa, borboletário, porto seguro.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/pupa, borboletário, porto seguro.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Imagem de uma pupa. A pupa é um estágio intermediário entre a larva e o adulto no desenvolvimento de insetos que passam pelo ciclo de desenvolvimento conhecido como metamorfose completa. A pupa é protegida por um casulo. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -121,10 +121,10 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                                    <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                                    
                                      <!-- CARROUSEL DAS IMAGENS DO CACAU -->
-                            <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                            <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                             
                            
                            <div id="demo2" class="carousel slide" data-ride="carousel">
@@ -138,10 +138,10 @@
                                 <!-- The slideshow -->
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <img class="rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro.jpg" alt="Los Angeles">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro.jpg" alt="Los Angeles">
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro3.jpg" alt="Chicago">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro3.jpg" alt="Chicago">
                                     </div>
                                 </div>
 
@@ -188,7 +188,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro2.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro2.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Borboleta da espécie <i>Eueides isabella dianasa</i>, pertencente a Família: Ninfalídeos/Heliconinae. Comum em plantios, tem cores vistosas tanto adulto quanto a lagarta. É comum serem predadas ainda em estado larval. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -219,7 +219,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro4.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro4.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Borboleta da espécie <i>Hamadryas februa</i> da Família Ninfalídeos/Biblidinae. Vulgarmente chamada de “estaladeira”, devido ao ruído que produz durante o voo, pousa com as asas abertas. Não sofre com parasitismo e as lagartas são solitárias. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -251,7 +251,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro5.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro5.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Borboleta conhecida popularmente como assenta-pau ou estaladeira, pertencente a espécie <i>Hamadryas amphinome amphinome</i>. Tem esse nome pois  “assenta” nos troncos sempre de cabeça para baixo e escolhe superfícies que ajudam a camuflagem. Ao decolar, ela provoca um chiado com as asas, o que deu origem ao nome “estaladeira”. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -283,7 +283,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro6.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro6.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Borboleta da espécie <i>Dryas iulia</i>, frequentemente chamada de borboleta Flambeau, é uma espécie de borboleta com pés de escova. O único representante de seu gênero Dryas, é nativo do Brasil. Sua envergadura varia de 82 a 92 mm e é de cor laranja (mais brilhante nos espécimes masculinos) com manchas pretas; esta espécie é um pouco desagradável para os pássaros. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -315,7 +315,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro7.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro7.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Borboleta pertencente a espécie <i>Hamadryas feronia</i>. Da Família: <i>Ninfalídeos/Biblidinae</i>. Vulgarmente chamada de “estaladeira”, devido ao ruído que produz durante o voo, pousa com as asas abertas. A pupa pode ser parasitada por hymenoptera. Lagartas são solitárias. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -347,7 +347,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro8.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro8.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Borboleta pertencente a espécie <i>Heraclides anchisiades</i>, denominada popularmente, em inglês, de Ruby-spotted Swallowtail ou Red-spotted Swallowtail e, em português, no Brasil, de Rosa-de-luto; com suas lagartas denominadas Bicho-de-rumo. É uma borboleta neotropical da família <i>Papilionidae</i> e subfamília <i>Papilionina</i>. Suas lagartas se alimentam de diversas espécies e gêneros de plantas da família <i>Rutaceae</i> (incluindo gêneros <i>Citrus</i> e <i>Ruta</i>). Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -379,7 +379,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro9.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro9.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Borboleta conhecida popularmente como rabo de andorinha, esse nome deriva do fato de apresentar asas posteriores que terminam em uma cauda de mais de 1 cm, parecida com a cauda das andorinhas. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -411,7 +411,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro10.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Borboleta, Borboletário, Porto Seguro10.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Borboleta conhecida popularmente como tigre laranja, da espécie <i>Dryadula phaetusa</i> muito comum no Brasil, a razão de seu nome comum se deve ao foto de ter asas nos tons e desenho muito semelhantes à pelagem de um tigre. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -443,10 +443,10 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                                    <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                                    
                                      <!-- CARROUSEL DAS IMAGENS DO CACAU -->
-                            <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                            <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                             
                            
                            <div id="demo3" class="carousel slide" data-ride="carousel">
@@ -460,10 +460,10 @@
                                 <!-- The slideshow -->
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <img class="rounded" src="imagens/Mata Atlântica/Borboletas, Borboletário, Porto Seguro.jpg" alt="Los Angeles">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/Borboletas, Borboletário, Porto Seguro.jpg" alt="Los Angeles">
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="rounded" src="imagens/Mata Atlântica/Borboletas, Borboletário, Porto Seguro2.jpg" alt="Chicago">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/Borboletas, Borboletário, Porto Seguro2.jpg" alt="Chicago">
                                     </div>
                                 </div>
 
@@ -510,7 +510,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/cópula borboletas, borboletário, porto seguro.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/cópula borboletas, borboletário, porto seguro.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Imagem de borboletas praticando a cópula. Cópula ou acasalamento é o ato de união de um indivíduo macho e uma fêmea de uma dada espécie animal, com a finalidade de possibilitar a junção dos gametas e a geração de um novo ser daquela espécie gerando assim novos descendentes.  Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -542,7 +542,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Coruja Zoo Matinha Itapetinga Bahia.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Coruja Zoo Matinha Itapetinga Bahia.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Strigiformes</i> popularmente conhecida como Coruja, são aves, em sua maioria, de hábitos noturno, predadoras e que conseguem se deslocar por meio de um voo silencioso. Região: Parque Zoobotânico da Matinha, unidade de conservação do município de Itapetinga, Bahia.</p>
 
@@ -574,7 +574,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Harpia Estação Veracruz Veracel Celulose.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Harpia Estação Veracruz Veracel Celulose.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Harpia harpyja</i> popularmente conhecida como Gavião-real, trata-se de uma das maiores e mais poderosas águias do mundo. Florestal, pode ser encontrada na região amazônica e em alguns pequenos trechos de Mata Atlântica da região sudeste, especialmente no sul da Bahia e norte do Espírito Santo. É uma poderosa predadora, caça desde macacos, preguiças até bugios e outras presas, por vezes com peso/tamanho da própria ave. Região: Estação Vera Cruz (RPPN),Veracel Celulose, Porto Seguro, Bahia.</p>
 
@@ -606,10 +606,10 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                                    <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                                    
                                      <!-- CARROUSEL DAS IMAGENS DO CACAU -->
-                            <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                            <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                             
                            
                            <div id="demo4" class="carousel slide" data-ride="carousel">
@@ -623,10 +623,10 @@
                                 <!-- The slideshow -->
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <img class="rounded" src="imagens/Mata Atlântica/IMG_3727.jpg" alt="Los Angeles">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/IMG_3727.jpg" alt="Los Angeles">
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="rounded" src="imagens/Mata Atlântica/IMG_3771.jpg" alt="Chicago">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/IMG_3771.jpg" alt="Chicago">
                                     </div>
                                 </div>
 
@@ -673,7 +673,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/IMG_3743.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/IMG_3743.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Cacicus haemorrhous</i> conhecida popularmente como Guaxe, possui tamanho: 28 cm e pesa em média 100 g. O maior tamanho dos machos é a única diferença entre os sexos, nesse pássaro grande, de coloração basicamente preta, brilhante e reluzente. O bico é cor-de-marfim, meio esverdeado e de formato todo especial, pois é muito largo na base e agudo na ponta, mostrando uma nítida forma cônica. Os olhos são azuis e as pernas, muito fortes, são pretas. Região: Itabuna, Bahia.</p>
 
@@ -705,7 +705,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/IMG_3797.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/IMG_3797.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Picidae popularmente</i> conhecida como Pica-pau, são aves facilmente identificáveis por seus hábitos e morfologia específicos, especialmente pelo hábito de tamborilar (bater o bico sobre uma superfície) produzindo um som mecânico muito característico que é utilizado na comunicação entre espécies, proteção do território e atração sexual. Região: Itabuna, Bahia.</p>
 
@@ -737,7 +737,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/IMG_3800.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/IMG_3800.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Os <i>Eudaminae</i> são uma subfamília de borboletas de capitão. Seu gênero original, <i>Eudamus</i>, é hoje um sinônimo júnior de <i>Urbanus</i>. Eles são amplamente encontrados nos neotrópicos, com alguns se estendendo para a América do Norte temperada e o intrigante Lobocla ocorrendo no leste da Ásia. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -769,10 +769,10 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                                    <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                                    
                                      <!-- CARROUSEL DAS IMAGENS DO CACAU -->
-                            <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                            <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                             
                            
                            <div id="demo5" class="carousel slide" data-ride="carousel">
@@ -787,13 +787,13 @@
                                 <!-- The slideshow -->
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <img class="rounded" src="imagens/Mata Atlântica/IMG_3824.jpg" alt="Los Angeles">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/IMG_3824.jpg" alt="Los Angeles">
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="rounded" src="imagens/Mata Atlântica/IMG_3826.jpg" alt="Chicago">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/IMG_3826.jpg" alt="Chicago">
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="rounded" src="imagens/Mata Atlântica/IMG_3828.jpg" alt="Chicago">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/IMG_3828.jpg" alt="Chicago">
                                     </div>
                                 </div>
 
@@ -839,7 +839,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/IMG_3829.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/IMG_3829.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Pulsatrix perspicillata</i> popularmente conhecida como Murucututu ou Murucutu, é uma coruja grande e poderosa, encontrada por quase todo o Brasil. Devido aos hábitos discretos e noturnos, é mais ouvida do que vista. Região: Itabuna, Bahia.</p>
 
@@ -871,7 +871,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/IMG_3831.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/IMG_3831.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Piaya cayana</i> popularmente conhecida como Alma-de-gato, é uma ave vistosa, mede praticamente meio metro, sendo sua cauda comprida responsável por dois terços desse tamanho todo. É carnívora. Alimenta-se de gafanhotos, lagartas – entre elas, as taturanas – aranhas, lagartixas e, ainda, camundongos. Região: Itabuna, Bahia.</p>
 
@@ -903,7 +903,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/IMG_3832.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/IMG_3832.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Lagarta-falsa-medideira, pertencente a espécie <i>Chrysodeixis includens</i>. Região: Itabuna, Bahia.</p>
 
@@ -935,10 +935,10 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                                    <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                                    
                                      <!-- CARROUSEL DAS IMAGENS DO CACAU -->
-                            <!-- <img class="img-fluid rounded mb-5" src="imagens/raiz.jpg" alt="..." /> -->
+                            <!-- <img class="img-fluid rounded mb-5" src="../imagens/raiz.jpg" alt="..." /> -->
                             
                            
                            <div id="demo6" class="carousel slide" data-ride="carousel">
@@ -952,10 +952,10 @@
                                 <!-- The slideshow -->
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <img class="rounded" src="imagens/Mata Atlântica/IMG_3939.jpg" alt="Los Angeles">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/IMG_3939.jpg" alt="Los Angeles">
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="rounded" src="imagens/Mata Atlântica/IMG_3941.jpg" alt="Chicago">
+                                        <img class="rounded" src="../imagens/Mata Atlântica/IMG_3941.jpg" alt="Chicago">
                                     </div>
                                 </div>
 
@@ -1002,7 +1002,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Lagarta, Borboletário, Porto Seguro.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Lagarta, Borboletário, Porto Seguro.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Imagem da lagarta, popularmente conhecida como lagarta das folhas. Pertencente à espécie <i>Spodoptera eridania</i>, trata-se de um dos principais insetos-praga de diversas culturas agrícolas no Brasil. É uma espécie polífaga, que ataca as culturas do milho (<i>Zea mays</i>), algodão (<i>Gossypium hirsutum</i>), arroz (<i>Oryza sativa</i>), soja (<i>Glycine max</i>) entre outras.</p>
 
@@ -1034,7 +1034,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Lagarta, Borboletário, Porto Seguro2.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Lagarta, Borboletário, Porto Seguro2.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Colobura dirce</i>, as larvas de <i>Colobura dirce</i> se alimentam de folhas de algumas espécies de <i>Cecropia</i> após a eclosão dos ovos, que são colocados em grupos de 2 a 10 nas folhas. Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -1066,7 +1066,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Lagarta, Borboletário, Porto Seguro3.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Lagarta, Borboletário, Porto Seguro3.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Battus polydamas</i> é uma espécie de borboleta com grande distribuição geográfica no continente Americano desde as Antilhas, sul do Texas até a Argentina. As lagartas se alimentam de várias espécies de <i>Aristolochia</i> e possuem cinco instares, variando no tamanho de 0,32 cm no primeiro até 4,82 cm no quinto (último) instar. As lagartas desta borboleta são tóxicas para vertebrados devido a habilidade de sequestrar os compostos químicos da sua planta hospedeira. Região: Borboletário Asas Mágicas, unidade de conservação no município de Porto Seguro, Bahia.</p>
 
@@ -1098,7 +1098,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Lagarta, Borboletário, Porto Seguro4.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Lagarta, Borboletário, Porto Seguro4.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Imagem de uma lagarta. Nome para o primeiro estágio larval dos insetos da ordem dos <i>Lepidoptera</i> (a ordem de insetos contendo borboletas e mariposas). Região: Borboletário Asas Mágicas, unidade de conservação do município de Porto Seguro, Bahia.</p>
 
@@ -1130,7 +1130,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Macacos Cebus Zoo Matinha Itapetinga Bahia.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Macacos Cebus Zoo Matinha Itapetinga Bahia.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Cebus albifrons</i> popularmente conhecida como Macaco-prego-de-cara-branca, é um primata da família <i>Cebidae</i>. Ocorre na América do Sul: Sudeste da Colômbia, Equador, sul da Venezuela, Peru, Bolívia e Brasil. O comprimento da cabeça e corpo é de cerca de 36 cm, a cauda mede 42,2 cm. Seu peso varia de 2,3 a 3 Kg. Região: Parque Zoobotânico da Matinha, unidade de conservação do município de Itapetinga, Bahia.</p>
 
@@ -1162,7 +1162,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Mico leão da cara dourada Zoo matinha Itapetinga Bahia.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Mico leão da cara dourada Zoo matinha Itapetinga Bahia.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Leontopithecus chrysomelas</i> popularmente conhecida como Mico-leão-da-cara-dourada, este pequeno primata mede entre 25 e 34 cm e pode pesar até 800 g. A face tem coloração castanho-claro, com o resto do corpo apresentando uma pelagem predominante preta. Os pelos das regiões facial, membros anteriores e cauda variam do dourado ao avermelhado. A pelagem ao redor da cabeça e do pescoço é mais longa, formando uma juba. Região: Parque Zoobotânico da Matinha, unidade de conservação do município de Itapetinga, Bahia.</p>
 
@@ -1194,7 +1194,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded" src="imagens/Mata Atlântica/Onça zoo matinha Itapetinga Bahia.jpg" alt="..." />
+                                    <img class="img-fluid rounded" src="../imagens/Mata Atlântica/Onça zoo matinha Itapetinga Bahia.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Espécie <i>Panthera onca</i> popularmente conhecida como Onça-pintada, é um animal carnívoro que apresenta corpo e cauda com pelo curto, as patas são adaptadas a vida cursorial, o focinho é curto e as orelhas pequenas e arredondadas. Os sentidos mais apurados são a visão e a audição, apesar do olfato também ser bem desenvolvido, quando comparado com outros animais, apresenta uma inferioridade.</p>
 
